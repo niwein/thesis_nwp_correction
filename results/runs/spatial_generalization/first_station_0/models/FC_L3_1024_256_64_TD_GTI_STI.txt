@@ -1,0 +1,1 @@
+{"type": "FC", "fc_layers": 3, "n_fc1": 1024, "n_fc2": 256, "n_fc3": 64, "grid_time_invariant": true, "station_time_invariant": true, "time_data": true, "layers": 3, "name": "FC_L3_1024_256_64_TD_GTI_STI"}

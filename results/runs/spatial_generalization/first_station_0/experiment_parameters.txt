@@ -1,0 +1,1 @@
+{"epochs": 20, "runs": 1, "test_fraction": 0.1, "n_loaders": 16, "batch_size": 64, "lead_times": [1], "grid_size": 1, "n_test_stations": 5, "first_test_station": 0, "prediction_times": [1], "slice_size": 21, "per_station_rmse": true, "optimizer": {"lr_decay": 0.9, "learning_rate": 0.0005, "momentum": 0.9, "algorithm": "sgd"}}

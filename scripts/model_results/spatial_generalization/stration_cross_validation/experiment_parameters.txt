@@ -1,0 +1,1 @@
+{"runs": 1, "n_loaders": 16, "prediction_times": [1], "epochs": 20, "grid_size": 1, "lead_times": [1], "slice_size": 21, "n_test_stations": 5, "optimizer": {"momentum": 0.9, "algorithm": "sgd", "lr_decay": 0.9, "learning_rate": 0.0005}, "first_test_station": 140, "test_fraction": 0.1, "batch_size": 64}

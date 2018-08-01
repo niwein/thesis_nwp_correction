@@ -1,0 +1,1 @@
+{"batch_size":64, "runs":3, "test_fraction":0.1, "slice_size":24, "distance_metric" : "2d", "n_loaders" : 1, "n_workers" : 15}
